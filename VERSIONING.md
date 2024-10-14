@@ -1,7 +1,8 @@
-We use two versioning schemes for our projects:
+We use three versioning schemes for our projects:
 
 - [**Semantic Versioning**](https://semver.org/) (_SemVer_) — for applications, demons and utilities;
-- [**Intended Effort Versioning**](https://jacobtomlinson.dev/effver/) (_EffVer_) — for libraries and Golang packages.
+- [**Intended Effort Versioning**](https://jacobtomlinson.dev/effver/) (_EffVer_) — for libraries and Golang packages;
+- YOLO/zero versions — for all MVPs and prototypes.
 
 ### SemVer
 
