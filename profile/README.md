@@ -1,1 +1,1 @@
-<img src="https://gh.kaos.st/banner.png"/>
+<img src="../images/banner.png" />
