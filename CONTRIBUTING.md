@@ -13,6 +13,9 @@ This simple fact is often misunderstood, so let us be crystal clear about what o
 
 You can read more about this POV in [this article](https://vale.rocks/posts/open-source-entitlement).
 
+> [!IMPORTANT]  
+> If you use any kind of LLM (_AI models_) for your contribution (_code, tests, issues, questions, feature requests_), you **MUST** check everything you can get out of it. If we find that your contribution is useless AI slop, you will be permanently banned from accessing to our GitHub organization.
+
 ### Issues
 
 1. Provide product version where the problem was found;
