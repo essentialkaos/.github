@@ -18,4 +18,4 @@ The update process is designed with security in mind:
 - The update process is initiated by the user, ensuring that updates are not applied without user consent.
 - The application checks for updates only from trusted sources (_the official ESSENTIAL KAOS app repository_).
 - ECDSA public key is embedded in the application binary, ensuring that only verified updates can be applied.
-- ECDSA private key is protected with a long passpahrase and presented only on build server.
+- ECDSA private key is protected with a long passphrase and presented only on build server.
